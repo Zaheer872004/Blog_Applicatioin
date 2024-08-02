@@ -1,3 +1,10 @@
+
+clone the below github And clone it Which is a server 
+you can start localhost:5000/blogs
+https://github.com/mdalmamunit427/modern-react-js-blog-starter-files
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
